@@ -101,4 +101,38 @@
 .colonne-loghi-2{
   background-color: #F3F5F9;
   text-align: center;
+  padding:20px;
+
+
+}
+.link-stories{
+  text-align: center;
+  padding:40px;
+}
+.margines{
+  padding: 20px 0px;
+}
+.colonne-loghi-3{
+  background-color: #F3F5F9;
+
+  margin: auto;
+  width: 80%;
+}
+.deply-scale{
+  text-align: center;
+    margin-top:100px;
+
+}
+.deply-scale h3{
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+padding: 30px;
+}
+.deply-scale p{
+  text-align: center;
+    font-size: 25px;
+    line-height: 30px;
+
+
 }
