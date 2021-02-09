@@ -1,0 +1,100 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.img-logo img{
+  display: inline-block;
+  margin:25px 0px;
+}
+.img-logo{
+    text-align: right;
+}
+.lista-nav ul li{
+  display: inline-block;
+  text-decoration: none;
+  list-style: none;
+  margin:35px 10px;
+
+}
+.btn-sign-up{
+  border-radius: 4px;
+  border: 1px solid blue;
+  padding:7px;
+}
+#blu-sign-up{
+  color:blue;
+}
+.lista-nav-bass ul li{
+  display: inline-block;
+  text-decoration: none;
+  list-style: none;
+  margin:25px 10px;
+
+}
+.lista-nav,
+.lista-nav-bass{
+  text-align: center;
+}
+.lista-nav ul li a,
+.lista-nav-bass ul li a{
+  text-align: center;
+  color:black;
+}
+.hero{
+  height:450px;
+  max-width: 100%;
+  transform: translateX();
+  background-image: url(../img/hero.svg);
+}
+.margin-auto-70{
+  width:70%;
+  margin:auto;
+}
+.titolo-hero h2{
+  color:#fff;
+  font-size: 50px;
+  margin-top:60px;
+}
+.titolo-hero p{
+  color:#fff;
+  font-size: 18px;
+}
+.google{
+  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-top: 40px;
+  padding: 10px;
+}
+.sign-in-gg{
+  width:95%;
+  margin:3px;
+  border-radius: 5px;
+  height:35px;
+  background-color: #fff;
+}
+.sign-in-gg2{
+  width:95%;
+  margin:3px;
+  border-radius: 5px;
+  height:35px;
+  background-color: #1D67CA;
+  color:#fff;
+}
+.sign-in-gg1{
+  width:95%;
+  margin:3px;
+  border-radius: 5px;
+  height:35px;
+  background-color: #fff;
+  color:black;
+}
+.google h2,
+.google h3{
+  font-size: 22px;
+  font-weight: bold;
+}
+.google h3{
+  color:#1D67CA;
+}
