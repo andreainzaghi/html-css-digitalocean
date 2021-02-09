@@ -133,6 +133,18 @@ padding: 30px;
   text-align: center;
     font-size: 25px;
     line-height: 30px;
-
-
+}
+.col-1-3 ul li{
+  list-style: none;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-left: 2px solid grey;
+  margin-left: 10px;
+}
+.col-1-3 ul li:first-child{
+  list-style: none;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-left: 2px solid blue;
+  margin-left: 10px;
 }
