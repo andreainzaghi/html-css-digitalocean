@@ -148,3 +148,48 @@ padding: 30px;
   border-left: 2px solid blue;
   margin-left: 10px;
 }
+.immagini-4{
+  padding:15px 0px;
+}
+.titol-2{
+  margin-bottom: 90px;
+}
+.col-xs-4 h4{
+  font-weight: bold;
+}
+.color-grigio{
+  background-color: #F3F5F9;
+
+  margin-top: 150px;
+}
+.img-img{
+  width: 100%;
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
+.deply-scale p:last-child{
+  font-size: 16px;
+}
+.puntinini{
+  margin-bottom:50px;
+}
+.titolo-maiuscolo{
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+  padding:50px;
+
+}
+.q-col{
+  margin-bottom:130px;
+}
+.blu-link{
+  font-size: 20px;
+  color:rgb(112, 130, 249);
+}
+.mappamondo{
+  background-image: url(../img/map.svg);
+  height:100vh;
+  background-size: cover;
+  background-color: #031B4E;
+}
