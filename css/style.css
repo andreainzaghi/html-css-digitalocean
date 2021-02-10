@@ -5,17 +5,14 @@
 }
 .img-logo img{
   display: inline-block;
-  margin:25px 0px;
-}
-.img-logo{
-    text-align: right;
+
 }
 .fondo-del-mare{
   margin-top:100px;
 }
 .burger{
   text-align: right;
-margin: 30px;
+
 text-align: right;
 }
 .nav-barr{
@@ -53,20 +50,23 @@ text-align: right;
   margin:0px 10px;
 
 }
-.lista-nav,
-.lista-nav-bass{
+.lista-nav{
   text-align: center;
+}
+.lista-nav-bass{
+  text-align: right;
 }
 .lista-nav ul li a,
 .lista-nav-bass ul li a{
   text-align: center;
   color:black;
 }
-.hero{
-  height:100%;
-  max-width: 100%;
-  transform: translateX();
+.fondo-del-mare{
+
   background-image: url(../img/hero.svg);
+  background-repeat: no-repeat;
+  padding: 100px 0px;
+  background-size: cover;
 }
 .margin-auto-70{
   width:70%;
@@ -89,10 +89,7 @@ text-align: right;
   }
 }
 @media screen and (max-width:771px){
-  .google{
-    margin-bottom:50px;
 
-  }
   .q-col{
     text-align: center;
   }
@@ -114,9 +111,9 @@ text-align: right;
   text-align: center;
   background-color: #fff;
   border-radius: 10px;
-  margin-top: 40px;
+
   padding: 10px;
-  margin-bottom: 40px;
+
 }
 .sign-in-gg{
   width:95%;
@@ -240,7 +237,7 @@ padding: 30px;
 }
 .mappamondo{
   background-image: url(../img/map.svg);
-  height:100%;
+
   background-size: cover;
   background-color: #031B4E;
 
@@ -248,8 +245,8 @@ padding: 30px;
 }
 .titolo-mappamondo{
   text-align: center;
-  width:75%;
-  margin:auto;
+
+
 }
 .titolo-mappamondo h2,
 .titolo-mappamondo p{
