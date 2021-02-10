@@ -59,7 +59,7 @@ text-align: right;
   color:black;
 }
 .hero{
-  height:450px;
+  height:100%;
   max-width: 100%;
   transform: translateX();
   background-image: url(../img/hero.svg);
@@ -70,7 +70,30 @@ text-align: right;
 }
 @media screen and (max-width:991px){
   .margin-auto-70{
-    width:95%;
+    width:80%;
+    margin:auto;
+  }
+  .margines{
+    padding:10px;
+  }
+  .col-dimensione{
+    width:60%;
+    margin:auto;
+  }
+  .q-col{
+    text-align: center;
+  }
+}
+@media screen and (max-width:771px){
+  .google{
+    margin-bottom:50px;
+
+  }
+  .q-col{
+    text-align: center;
+  }
+  .col-dimensione{
+    width:60%;
     margin:auto;
   }
 }
