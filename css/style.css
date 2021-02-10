@@ -13,6 +13,11 @@
 .fondo-del-mare{
   margin-top:100px;
 }
+.burger{
+  text-align: right;
+margin: 30px;
+text-align: right;
+}
 .nav-barr{
   position: fixed;
   top:0;
@@ -62,6 +67,12 @@
 .margin-auto-70{
   width:70%;
   margin:auto;
+}
+@media screen and (max-width:991px){
+  .margin-auto-70{
+    width:95%;
+    margin:auto;
+  }
 }
 .titolo-hero h2{
   color:#fff;
