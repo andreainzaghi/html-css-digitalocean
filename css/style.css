@@ -329,3 +329,32 @@ padding: 30px;
 .sectio{
   padding:50px;
 }
+/* footer */
+.foot-er{
+  background-color: #010E28;
+
+}
+.cont-footer{
+  padding:100px 70px;
+}
+.cont-footer ul li{
+  color:grey;
+  list-style: none;
+  text-decoration: none;
+}
+.cont-footer ul li:hover{
+  color:#fff;
+
+}
+.loghi-soc p {
+  display: inline-block;
+  color: #fff;
+  padding:0 10px;
+}
+.p-soc p{
+  color:#fff;
+}
+.p-soc img,
+.p-soc p{
+  display: inline-block;
+}
