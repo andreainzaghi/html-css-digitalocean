@@ -3,6 +3,9 @@
   padding:0;
   box-sizing: border-box;
 }
+section{
+  padding:100px;
+}
 .img-logo img{
   display: inline-block;
 
@@ -80,10 +83,7 @@ text-align: right;
   .margines{
     padding:10px;
   }
-  .col-dimensione{
-    width:60%;
-    margin:auto;
-  }
+
   .q-col{
     text-align: center;
   }
@@ -168,7 +168,7 @@ text-align: right;
 }
 .deply-scale{
   text-align: center;
-    margin-top:100px;
+
 
 }
 .deply-scale h3{
@@ -208,7 +208,7 @@ padding: 30px;
 .color-grigio{
   background-color: #F3F5F9;
 
-  margin-top: 150px;
+  margin-top: 50px;
 }
 .img-img{
   width: 100%;
@@ -243,6 +243,12 @@ padding: 30px;
 
 
 }
+.securitii{
+  padding: 0px 100px;
+}
+.bordo-button .col-xs-3 a{
+  color:#66D6D5;
+}
 .titolo-mappamondo{
   text-align: center;
 
@@ -272,4 +278,54 @@ padding: 30px;
   border-bottom: 1px solid #fff;
   color:#fff;
   padding:3px;
+}
+.titolo-4-content{
+  text-align: center;
+  background-color: #F3F5F9;
+}
+.content-fire{
+  background-color: #fff;
+  padding:50px;
+}
+.tre3-44{
+  padding-bottom: 100px;
+  font-size: 29px;
+}
+.tre3-45{
+  padding: 30px 0px;
+  font-size: 25px;
+
+}
+.tre3-46{
+  padding-top: 40px;
+  color:grey;
+
+}
+.tre3-47{
+
+  color:grey;
+
+}
+.back-bliu{
+  background-image: url(../img/bliu.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.btn-bliu a{
+  padding:15px;
+  background-color: #fff;
+  color:#015CFF;
+  border-radius: 5px;
+  line-height: 80px;
+  font-size: 20px;
+
+}
+
+.bianco{
+  color:#fff;
+  font-weight: bold;
+  font-size: 35px;
+}
+.sectio{
+  padding:50px;
 }
