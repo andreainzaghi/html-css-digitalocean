@@ -104,7 +104,10 @@ text-align: right;
 .titolo-hero h2{
   color:#fff;
   font-size: 50px;
-  margin-top:60px;
+
+}
+.titolo-hero{
+  padding-left: 85px;
 }
 .titolo-hero p{
   color:#fff;
@@ -114,7 +117,7 @@ text-align: right;
   text-align: center;
   background-color: #fff;
   border-radius: 10px;
-
+  width:350px;
   padding: 10px;
 
 }
@@ -368,3 +371,9 @@ padding-right:30px;
 .p-soc p{
   display: inline-block;
 }
+/* .freccia{
+  position: absolute;
+  top: 50%;
+
+
+} */
