@@ -29,7 +29,10 @@ text-align: right;
   height: 100px;
 
 }
-
+.ruota {
+  transform: rotate(180deg) ;
+  
+}
 .lista-nav ul li{
   display: inline-block;
   text-decoration: none;
