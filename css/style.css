@@ -31,7 +31,7 @@ text-align: right;
 }
 .ruota {
   transform: rotate(180deg) ;
-  
+
 }
 .lista-nav ul li{
   display: inline-block;
@@ -354,8 +354,15 @@ padding: 30px;
   color: #fff;
   padding:0 10px;
 }
+.loghi-soc{
+line-height: 50px;
+text-align: right;
+}
 .p-soc p{
   color:#fff;
+}
+.p-soc img{
+padding-right:30px;
 }
 .p-soc img,
 .p-soc p{
