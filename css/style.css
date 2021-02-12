@@ -126,6 +126,7 @@ text-align: right;
 }
 .sign-in-gg{
   width:95%;
+  padding:0 10px;
   margin:3px;
   border-radius: 5px;
   height:35px;
@@ -165,6 +166,7 @@ text-align: right;
 .link-stories{
   text-align: center;
   padding:40px;
+  font-weight: bold;
 }
 .margines{
   padding: 20px 0px;
