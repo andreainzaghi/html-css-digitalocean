@@ -418,3 +418,12 @@ padding-right:30px;
 .m-topp{
   margin-top: 200px;
 }
+.shark{
+  position:fixed;
+  padding-bottom: 30px;
+  bottom:0;
+  right:0;
+  left:0;
+  z-index: 44;
+  text-align: right;
+}
